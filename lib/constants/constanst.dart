@@ -6,14 +6,14 @@ final kCardNumberTextStyle = TextStyle(
   fontWeight: FontWeight.bold,
   package: 'credit_card_input_form',
   letterSpacing: 1.5,
-  fontSize: 25,
+  fontSize: 18,
 );
 
 final kCardDefaultTextStyle = TextStyle(
   color: Colors.grey,
   fontFamily: 'U and I',
   package: 'credit_card_input_form',
-  fontSize: 25,
+  fontSize:18,
   letterSpacing: 1,
 );
 
